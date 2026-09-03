@@ -1,0 +1,60 @@
+about:
+  description: Find and fix problems in your JavaScript code.
+  license: MIT
+  homepage: https://eslint.org
+  head: 87e0a08
+  archived: false
+  latestVersion: v10.9.1
+  collectedAt: 2026-09-03T04:41:18Z
+timeline:
+  created: 2013-06-29
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-24
+popularity:
+  star: 27495
+  watcher: 346
+  fork: 5177
+  release: 391
+  contributor: 1115
+  pullRequest: 1693
+  issue: 11020
+language:
+  JavaScript: 11321216
+  TypeScript: 66534
+  EJS: 5017
+  HTML: 823
+  Shell: 475
+totalLine: 11394065
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 3
+    mergedPR: 31
+    openPR: 16
+    closedIssue: 18
+    openIssue: 16
+    commit: 40
+  last90d:
+    since: 2026-06-05
+    release: 8
+    mergedPR: 158
+    openPR: 18
+    closedIssue: 53
+    openIssue: 34
+    commit: 184
+  last180d:
+    since: 2026-03-07
+    release: 14
+    mergedPR: 292
+    openPR: 24
+    closedIssue: 108
+    openIssue: 51
+    commit: 348
+  last360d:
+    since: 2025-09-08
+    release: 32
+    mergedPR: 529
+    openPR: 30
+    closedIssue: 249
+    openIssue: 66
+    commit: 611
