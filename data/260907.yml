@@ -5,18 +5,18 @@ about:
   head: c832660
   archived: false
   latestVersion: "v10.10.0"
-  collectedAt: 2026-09-07T05:58:19Z
+  collectedAt: 2026-09-07T18:27:53Z
 timeline:
   created: 2013-06-29
   lastCommit: 2026-09-07
   lastRelease: 2026-09-04
 popularity:
-  star: 27494
+  star: 27498
   watcher: 348
   fork: 5176
   release: 392
   contributor: 1115
-  pullRequest: 8908
+  pullRequest: 8907
   issue: 11020
 language:
   JavaScript: 11348918
@@ -31,59 +31,59 @@ recent:
     release: 3
     mergedPR: 33
     openPR: 9
-    closedIssue: 17
-    openIssue: 12
+    closedIssue: 18
+    openIssue: 11
     commit: 37
   last60d:
     since: 2026-07-09
     release: 7
     mergedPR: 104
     openPR: 10
-    closedIssue: 37
-    openIssue: 24
+    closedIssue: 38
+    openIssue: 23
     commit: 124
   last90d:
     since: 2026-06-09
     release: 9
     mergedPR: 158
     openPR: 11
-    closedIssue: 50
-    openIssue: 29
+    closedIssue: 51
+    openIssue: 28
     commit: 188
   last180d:
     since: 2026-03-11
     release: 15
     mergedPR: 299
     openPR: 16
-    closedIssue: 107
-    openIssue: 48
+    closedIssue: 108
+    openIssue: 47
     commit: 347
   last360d:
     since: 2025-09-12
     release: 33
     mergedPR: 533
     openPR: 21
-    closedIssue: 244
-    openIssue: 62
+    closedIssue: 245
+    openIssue: 61
     commit: 613
   last720d:
     since: 2024-09-17
     release: 62
     mergedPR: 1046
     openPR: 27
-    closedIssue: 683
-    openIssue: 78
+    closedIssue: 684
+    openIssue: 77
     commit: 1302
 total:
   release: 392
   mergedPR: 7220
   openPR: 27
-  closedIssue: 10920
-  openIssue: 100
+  closedIssue: 10921
+  openIssue: 99
   commit: 11011
 ---
 path: /home/runner/.x-repo/github.com/eslint/eslint
-collectedAt: 2026-09-07T05:58:27Z
+collectedAt: 2026-09-07T18:28:01Z
 loc:
   JavaScript:
     code: 459083
@@ -333,7 +333,7 @@ checks:
       - 'Warn: 20 commits out of 21 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:58:28+00:00
+  collectedAt: 2026-09-07T18:28:02+00:00
   platform:
     darwin/arm64:
       name:  null
