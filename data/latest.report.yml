@@ -7,7 +7,7 @@ about:
   latestVersion: "v10.10.0"
   latestRelease: "v10.10.0"
   latestPrerelease: "v10.0.0-rc.2"
-  collectedAt: 2026-09-10T20:29:23Z
+  collectedAt: 2026-09-10T23:23:12Z
 timeline:
   created: 2013-06-29
   lastCommit: 2026-09-10
@@ -87,7 +87,7 @@ total:
   commit: 11017
 ---
 path: /home/runner/.x-repo/github.com/eslint/eslint
-collectedAt: 2026-09-10T20:29:31Z
+collectedAt: 2026-09-10T23:23:19Z
 loc:
   JavaScript:
     code: 459491
