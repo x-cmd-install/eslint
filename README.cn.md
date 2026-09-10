@@ -4,7 +4,7 @@
 
 Find and fix problems in your JavaScript code.
 
-![eslint](https://repo.x-cmd.io/eslint.svg)
+![eslint](https://repo.x-cmd.io/eslint.svg?lang=zh)
 
 ## 安装
 
@@ -12,44 +12,16 @@ Find and fix problems in your JavaScript code.
 x install eslint
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/eslint/eslint>
-- **官网**: <https://eslint.org>
-- **许可证**: MIT
-
-## 发布
-
-- **最新版本**: `v10.10.0` (2026-09-04)
-- **最近提交**: 2026-09-09
-- **发布时间**: 2026-09-04T14:30:17Z
-
-## 流行度
-
-- **Star**: 27,496 · **Fork**: 5,176 · **开放 issue**: 11,021 · **贡献者**: 1,116
-
-## 累计统计
-
-- **发布数**: 392 · **已合并 PR**: 7224 · **开放 PR**: 30 · **已关闭 issue**: 10923 · **开放 issue**: 98 · **提交数**: 11016
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 32 | 11 | 19 | 10 | 43 |
-| 90d | 2026-06-12 | 9 | 158 | 14 | 51 | 26 | 194 |
-| 360d | 2025-09-15 | 33 | 527 | 24 | 245 | 60 | 619 |
-
 ## 代码规模
 
-合计: **478,241** 行代码（覆盖前 5 种语言、共 **1665** 个文件）。
+合计: **478,280** 行代码（覆盖前 5 种语言、共 **1665** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| JavaScript | 459,452 | 43,743 | 28,805 | 1487 |
+| JavaScript | 459,491 | 43,743 | 28,807 | 1487 |
 | Json | 11,013 | 0 | 13 | 84 |
 | Sass | 3,202 | 54 | 597 | 35 |
-| TypeScript | 3,064 | 3,716 | 572 | 21 |
+| TypeScript | 3,064 | 3,717 | 572 | 21 |
 | Html | 1,237 | 16 | 89 | 38 |
 
 ## OpenSSF Scorecard 评分
@@ -62,6 +34,51 @@ x install eslint
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## 源代码
+
+- **上游仓库**: <https://github.com/eslint/eslint>
+- **官网**: <https://eslint.org>
+- **许可证**: MIT
+
+## 发布
+
+- **最新版本**: `v10.10.0` (2026-09-04)
+- **最近提交**: 2026-09-10
+
+## 流行度
+
+- **Star**: 27,495 · **Fork**: 5,176 · **开放 issue**: 11,021 · **贡献者**: 1,116
+
+## 累计统计
+
+- **发布数**: 392 · **已合并 PR**: 7225 · **开放 PR**: 27 · **已关闭 issue**: 10924 · **开放 issue**: 97 · **提交数**: 11017
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 33 | 8 | 20 | 9 | 44 |
+| last60d | 2026-07-12 | 5 | 107 | 10 | 41 | 21 | 131 |
+| 90d | 2026-06-12 | 9 | 159 | 11 | 52 | 25 | 195 |
+| last180d | 2026-03-14 | 15 | 300 | 16 | 110 | 44 | 354 |
+| 360d | 2025-09-15 | 33 | 528 | 21 | 246 | 59 | 620 |
+| last720d | 2024-09-20 | 62 | 1043 | 27 | 683 | 75 | 1301 |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/eslint) 上共有 **49** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**38** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `6.4.0+~6.1.9` | ⚠️ outdated |
+| Debian 14 | `6.4.0+~6.1.9` | ⚠️ outdated |
+| Debian 13 | `6.4.0+~6.1.9` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `6.4.0+~6.1.9` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `6.4.0+~6.1.9` | ⚠️ outdated |
+| Arch | `10.10.0` | ✅ latest |
+| Homebrew | `10.10.0` | ✅ latest |
+| Nix unstable | `10.9.1` | ⚠️ outdated |
+
 ## 改进这些数据
 
 eslint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `eslint` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -71,4 +88,4 @@ eslint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:56:00Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:29:36Z._
