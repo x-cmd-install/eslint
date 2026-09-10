@@ -1,0 +1,621 @@
+- repo: apertis_v2023
+  subrepo: v2023/development
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 5.16.0+~4.16.8
+  origversion: 5.16.0~dfsg+~4.16.8-5apertis1
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+- repo: apertis_v2024
+  subrepo: v2024/development
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-7+apertis1
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+- repo: apertis_v2025
+  subrepo: v2025/development
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-7+apertis1
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+- repo: apertis_v2026
+  subrepo: v2026/development
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12+apertis0
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+- repo: apertis_v2027
+  subrepo: v2027dev1/development
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12+apertis0
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+- repo: arch
+  subrepo: extra
+  srcname: eslint
+  binname: eslint
+  visiblename: eslint
+  version: 10.10.0
+  origversion: 10.10.0-1
+  status: newest
+  summary: An AST-based pattern checker for JavaScript
+  licenses:
+    - MIT
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 5.16.0+~4.16.8
+  origversion: 5.16.0~dfsg+~4.16.8-5
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-7
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-14
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-14
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: deepin_23
+  subrepo: main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-11
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - javascript
+- repo: deepin_25
+  subrepo: main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-11
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - javascript
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 5.16.0+~4.16.8
+  origversion: 5.16.0~dfsg+~4.16.8-5
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-14
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: homebrew
+  srcname: eslint
+  visiblename: eslint
+  version: 10.10.0
+  origversion: null
+  status: newest
+  summary: AST-based pattern checker for JavaScript
+- repo: homebrew
+  srcname: eslint
+  visiblename: eslint
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: AST-based pattern checker for JavaScript
+- repo: kali_rolling
+  subrepo: main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-14
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: macports
+  srcname: devel/eslint
+  binname: eslint
+  visiblename: eslint
+  version: 10.10.0
+  origversion: null
+  status: newest
+  summary: Statically analyzes JavaScript and TypeScript to find problems
+  maintainers:
+    - oakimov@github
+  licenses:
+    - MIT
+  categories:
+    - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: eslint
+  binname: eslint
+  visiblename: eslint
+  version: 10.10.0
+  origversion: 10.10.0-1
+  status: newest
+  summary: An AST-based pattern checker for JavaScript
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: eslint
+  binname: eslint
+  visiblename: eslint
+  version: 10.10.0
+  origversion: 10.10.0-1
+  status: newest
+  summary: An AST-based pattern checker for JavaScript
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: eslint
+  binname: eslint
+  visiblename: eslint
+  version: 10.10.0
+  origversion: 10.10.0-1
+  status: newest
+  summary: An AST-based pattern checker for JavaScript
+  licenses:
+    - MIT
+- repo: msys2_clang64
+  srcname: mingw-w64-eslint
+  binname: mingw-w64-clang-x86_64-eslint
+  visiblename: mingw-w64-clang-x86_64-eslint
+  version: 10.10.0
+  origversion: 10.10.0-1
+  status: newest
+  summary: An AST-based pattern checker for JavaScript (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: msys2_clangarm64
+  srcname: mingw-w64-eslint
+  binname: mingw-w64-clang-aarch64-eslint
+  visiblename: mingw-w64-clang-aarch64-eslint
+  version: 10.10.0
+  origversion: 10.10.0-1
+  status: newest
+  summary: An AST-based pattern checker for JavaScript (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: msys2_ucrt64
+  srcname: mingw-w64-eslint
+  binname: mingw-w64-ucrt-x86_64-eslint
+  visiblename: mingw-w64-ucrt-x86_64-eslint
+  version: 10.10.0
+  origversion: 10.10.0-1
+  status: newest
+  summary: An AST-based pattern checker for JavaScript (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: nix_stable_24_11
+  srcname: eslint
+  visiblename: eslint
+  version: 9.10.0
+  origversion: null
+  status: outdated
+  summary: Find and fix problems in your JavaScript code
+  maintainers:
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: eslint
+  visiblename: eslint
+  version: 9.39.1
+  origversion: null
+  status: outdated
+  summary: Find and fix problems in your JavaScript code
+  maintainers:
+    - nix@mdaniels.me
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: eslint
+  visiblename: eslint
+  version: 9.39.1
+  origversion: null
+  status: outdated
+  summary: Find and fix problems in your JavaScript code
+  maintainers:
+    - nix@mdaniels.me
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: eslint
+  visiblename: eslint
+  version: 10.3.0
+  origversion: null
+  status: outdated
+  summary: Find and fix problems in your JavaScript code
+  maintainers:
+    - nix@mdaniels.me
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: eslint
+  visiblename: eslint
+  version: 10.9.1
+  origversion: null
+  status: outdated
+  summary: Find and fix problems in your JavaScript code
+  maintainers:
+    - nix@mdaniels.me
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+- repo: openpkg_current
+  srcname: eslint
+  visiblename: eslint
+  version: 7.32.0
+  origversion: null
+  status: outdated
+  summary: JavaScript Linting Tool
+  licenses:
+    - MIT
+  categories:
+    - Language
+- repo: parabola
+  subrepo: extra
+  srcname: eslint
+  binname: eslint
+  visiblename: eslint
+  version: 10.10.0
+  origversion: 10.10.0-1
+  status: newest
+  summary: An AST-based pattern checker for JavaScript
+  licenses:
+    - MIT
+- repo: pardus_21
+  subrepo: main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 5.16.0+~4.16.8
+  origversion: 5.16.0~dfsg+~4.16.8-5
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 5.16.0+~4.16.8
+  origversion: 5.16.0~dfsg+~4.16.8-5
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - javascript
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - javascript
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-7
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-14
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: trisquel_10_0
+  subrepo: nabia/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 5.0.1
+  origversion: 5.0.1~dfsg-4build3
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - universe/misc
+- repo: trisquel_11_0
+  subrepo: aramo/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-2
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - universe/misc
+- repo: ubuntu_20_04
+  subrepo: focal/universe
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 5.0.1
+  origversion: 5.0.1~dfsg-4build3
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-2
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-11build3
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-13
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - universe/misc
