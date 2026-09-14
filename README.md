@@ -14,11 +14,11 @@ x install eslint
 
 ## Code insight
 
-Total: **478,294** lines of code across **1665** files in the top 5 languages.
+Total: **478,434** lines of code across **1667** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 459,505 | 43,743 | 28,807 | 1487 |
+| JavaScript | 459,645 | 43,771 | 28,815 | 1489 |
 | Json | 11,013 | 0 | 13 | 84 |
 | Sass | 3,202 | 54 | 597 | 35 |
 | TypeScript | 3,064 | 3,717 | 572 | 21 |
@@ -43,41 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.10.0` (2026-09-04)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-14
 
 ## Popularity
 
-- **Stars**: 27,501 · **Forks**: 5,178 · **Open issues**: 11,021 · **Contributors**: 1,116
+- **Stars**: 27,505 · **Forks**: 5,179 · **Open issues**: 11,024 · **Contributors**: 1,117
 
 ## Totals (cumulative)
 
-- **Releases**: 392 · **Merged PRs**: 7227 · **Open PRs**: 26 · **Closed issues**: 10925 · **Open issues**: 96 · **Commits**: 11019
+- **Releases**: 392 · **Merged PRs**: 7229 · **Open PRs**: 27 · **Closed issues**: 10925 · **Open issues**: 99 · **Commits**: 11021
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 32 | 7 | 20 | 4 | 40 |
-| last60d | 2026-07-15 | 5 | 107 | 9 | 41 | 20 | 101 |
-| 90d | 2026-06-15 | 8 | 156 | 9 | 52 | 24 | 183 |
-| last180d | 2026-03-17 | 15 | 300 | 15 | 110 | 43 | 334 |
-| 360d | 2025-09-18 | 33 | 524 | 20 | 242 | 58 | 612 |
-| last720d | 2024-09-23 | 61 | 1039 | 26 | 682 | 74 | 1291 |
-
-## Distribution status
-
-Reported by **49** distros on [repology.org](https://repology.org/project/eslint). **10** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `6.4.0+~6.1.9` | ⚠️ outdated |
-| Debian 14 | `6.4.0+~6.1.9` | ⚠️ outdated |
-| Debian 13 | `6.4.0+~6.1.9` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `6.4.0+~6.1.9` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `6.4.0+~6.1.9` | ⚠️ outdated |
-| Arch | `10.10.0` | ✅ latest |
-| Homebrew | `10.10.0` | ✅ latest |
-| Nix unstable | `10.9.1` | ⚠️ outdated |
+| 30d | 2026-08-15 | 3 | 34 | 8 | 20 | 6 | 43 |
+| last60d | 2026-07-16 | 5 | 105 | 10 | 40 | 22 | 104 |
+| 90d | 2026-06-16 | 8 | 157 | 10 | 52 | 27 | 186 |
+| last180d | 2026-03-18 | 15 | 299 | 16 | 110 | 46 | 337 |
+| 360d | 2025-09-19 | 33 | 524 | 21 | 241 | 61 | 615 |
+| last720d | 2024-09-24 | 60 | 1039 | 27 | 679 | 77 | 1287 |
 
 ## Improve this data
 
@@ -88,4 +73,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:07:18Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:15:08Z._
