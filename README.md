@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,505 · **Forks**: 5,179 · **Open issues**: 11,024 · **Contributors**: 1,117
+- **Stars**: 27,506 · **Forks**: 5,180 · **Open issues**: 11,025 · **Contributors**: 1,117
 
 ## Totals (cumulative)
 
-- **Releases**: 392 · **Merged PRs**: 7229 · **Open PRs**: 27 · **Closed issues**: 10925 · **Open issues**: 99 · **Commits**: 11021
+- **Releases**: 392 · **Merged PRs**: 7229 · **Open PRs**: 27 · **Closed issues**: 10926 · **Open issues**: 99 · **Commits**: 11021
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 3 | 34 | 8 | 20 | 6 | 43 |
-| last60d | 2026-07-16 | 5 | 105 | 10 | 40 | 22 | 104 |
-| 90d | 2026-06-16 | 8 | 157 | 10 | 52 | 27 | 186 |
-| last180d | 2026-03-18 | 15 | 299 | 16 | 110 | 46 | 337 |
-| 360d | 2025-09-19 | 33 | 524 | 21 | 241 | 61 | 615 |
-| last720d | 2024-09-24 | 60 | 1039 | 27 | 679 | 77 | 1287 |
+| 30d | 2026-08-16 | 3 | 34 | 8 | 20 | 6 | 43 |
+| last60d | 2026-07-17 | 5 | 99 | 10 | 41 | 22 | 104 |
+| 90d | 2026-06-17 | 8 | 154 | 10 | 53 | 27 | 186 |
+| last180d | 2026-03-19 | 15 | 296 | 16 | 108 | 46 | 337 |
+| 360d | 2025-09-20 | 32 | 522 | 21 | 242 | 61 | 615 |
+| last720d | 2024-09-25 | 60 | 1039 | 27 | 677 | 77 | 1286 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:15:08Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:23:11Z._
