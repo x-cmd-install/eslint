@@ -14,11 +14,11 @@ x install eslint
 
 ## Code insight
 
-Total: **478,534** lines of code across **1667** files in the top 5 languages.
+Total: **478,530** lines of code across **1667** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 459,745 | 43,799 | 28,821 | 1489 |
+| JavaScript | 459,741 | 43,796 | 28,821 | 1489 |
 | Json | 11,013 | 0 | 13 | 84 |
 | Sass | 3,202 | 54 | 597 | 35 |
 | TypeScript | 3,064 | 3,717 | 572 | 21 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,510 · **Forks**: 5,184 · **Open issues**: 11,027 · **Contributors**: 1,117
+- **Stars**: 27,510 · **Forks**: 5,184 · **Open issues**: 11,028 · **Contributors**: 1,117
 
 ## Totals (cumulative)
 
-- **Releases**: 392 · **Merged PRs**: 7231 · **Open PRs**: 28 · **Closed issues**: 10925 · **Open issues**: 102 · **Commits**: 11023
+- **Releases**: 392 · **Merged PRs**: 7232 · **Open PRs**: 30 · **Closed issues**: 10925 · **Open issues**: 103 · **Commits**: 11024
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 3 | 35 | 8 | 19 | 9 | 45 |
-| last60d | 2026-07-19 | 5 | 85 | 11 | 39 | 24 | 106 |
-| 90d | 2026-06-19 | 8 | 154 | 11 | 50 | 30 | 188 |
-| last180d | 2026-03-21 | 14 | 293 | 17 | 107 | 49 | 339 |
-| 360d | 2025-09-22 | 32 | 521 | 21 | 239 | 64 | 617 |
-| last720d | 2024-09-27 | 60 | 1039 | 28 | 671 | 80 | 1283 |
+| 30d | 2026-08-19 | 3 | 36 | 10 | 19 | 10 | 46 |
+| last60d | 2026-07-20 | 5 | 80 | 13 | 39 | 25 | 107 |
+| 90d | 2026-06-20 | 8 | 154 | 13 | 50 | 31 | 189 |
+| last180d | 2026-03-22 | 14 | 287 | 19 | 107 | 50 | 340 |
+| 360d | 2025-09-23 | 32 | 519 | 23 | 238 | 65 | 618 |
+| last720d | 2024-09-28 | 60 | 1040 | 30 | 671 | 81 | 1282 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:23:40Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:03:45Z._
