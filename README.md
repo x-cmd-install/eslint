@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.11.0` (2026-09-18)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 
 ## Popularity
 
-- **Stars**: 27,521 · **Forks**: 5,189 · **Open issues**: 11,030 · **Contributors**: 1,119
+- **Stars**: 27,515 · **Forks**: 5,190 · **Open issues**: 11,031 · **Contributors**: 1,120
 
 ## Totals (cumulative)
 
-- **Releases**: 393 · **Merged PRs**: 7238 · **Open PRs**: 28 · **Closed issues**: 10932 · **Open issues**: 98 · **Commits**: 11032
+- **Releases**: 393 · **Merged PRs**: 7241 · **Open PRs**: 27 · **Closed issues**: 10932 · **Open issues**: 99 · **Commits**: 11036
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 3 | 35 | 7 | 21 | 7 | 48 |
-| last60d | 2026-07-25 | 5 | 78 | 11 | 39 | 19 | 87 |
-| 90d | 2026-06-25 | 9 | 151 | 11 | 54 | 26 | 182 |
-| last180d | 2026-03-27 | 15 | 286 | 16 | 111 | 44 | 336 |
-| 360d | 2025-09-28 | 33 | 522 | 21 | 242 | 60 | 615 |
-| last720d | 2024-10-03 | 61 | 1040 | 28 | 670 | 76 | 1281 |
+| 30d | 2026-08-25 | 2 | 37 | 6 | 17 | 8 | 51 |
+| last60d | 2026-07-26 | 5 | 77 | 10 | 37 | 19 | 90 |
+| 90d | 2026-06-26 | 9 | 154 | 10 | 54 | 27 | 185 |
+| last180d | 2026-03-28 | 15 | 289 | 15 | 110 | 44 | 339 |
+| 360d | 2025-09-29 | 33 | 521 | 20 | 241 | 61 | 618 |
+| last720d | 2024-10-04 | 61 | 1040 | 27 | 668 | 77 | 1284 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:33:04Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:42:02Z._
