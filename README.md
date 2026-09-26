@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.11.0` (2026-09-18)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-25
 
 ## Popularity
 
-- **Stars**: 27,516 · **Forks**: 5,190 · **Open issues**: 11,031 · **Contributors**: 1,120
+- **Stars**: 27,517 · **Forks**: 5,189 · **Open issues**: 11,032 · **Contributors**: 1,120
 
 ## Totals (cumulative)
 
-- **Releases**: 393 · **Merged PRs**: 7241 · **Open PRs**: 29 · **Closed issues**: 10933 · **Open issues**: 98 · **Commits**: 11036
+- **Releases**: 393 · **Merged PRs**: 7243 · **Open PRs**: 29 · **Closed issues**: 10936 · **Open issues**: 96 · **Commits**: 11038
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 2 | 35 | 8 | 17 | 8 | 51 |
-| last60d | 2026-07-27 | 5 | 73 | 12 | 37 | 16 | 90 |
-| 90d | 2026-06-27 | 8 | 153 | 12 | 56 | 26 | 185 |
-| last180d | 2026-03-29 | 15 | 288 | 17 | 112 | 43 | 339 |
-| 360d | 2025-09-30 | 33 | 519 | 22 | 242 | 59 | 618 |
-| last720d | 2024-10-05 | 60 | 1039 | 29 | 669 | 76 | 1279 |
+| 30d | 2026-08-27 | 2 | 36 | 8 | 18 | 8 | 53 |
+| last60d | 2026-07-28 | 5 | 71 | 12 | 37 | 16 | 92 |
+| 90d | 2026-06-28 | 8 | 154 | 12 | 56 | 26 | 187 |
+| last180d | 2026-03-30 | 15 | 288 | 17 | 114 | 42 | 341 |
+| 360d | 2025-10-01 | 33 | 519 | 22 | 243 | 57 | 620 |
+| last720d | 2024-10-06 | 60 | 1039 | 29 | 669 | 75 | 1281 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:53:21Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:52:54Z._
