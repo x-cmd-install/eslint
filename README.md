@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.11.0` (2026-09-18)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-27
 
 ## Popularity
 
-- **Stars**: 27,517 · **Forks**: 5,189 · **Open issues**: 11,032 · **Contributors**: 1,120
+- **Stars**: 27,516 · **Forks**: 5,189 · **Open issues**: 11,032 · **Contributors**: 1,120
 
 ## Totals (cumulative)
 
-- **Releases**: 393 · **Merged PRs**: 7243 · **Open PRs**: 29 · **Closed issues**: 10936 · **Open issues**: 96 · **Commits**: 11038
+- **Releases**: 393 · **Merged PRs**: 7244 · **Open PRs**: 32 · **Closed issues**: 10936 · **Open issues**: 96 · **Commits**: 11039
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 2 | 36 | 8 | 18 | 8 | 53 |
-| last60d | 2026-07-28 | 5 | 71 | 12 | 37 | 16 | 92 |
-| 90d | 2026-06-28 | 8 | 154 | 12 | 56 | 26 | 187 |
-| last180d | 2026-03-30 | 15 | 288 | 17 | 114 | 42 | 341 |
-| 360d | 2025-10-01 | 33 | 519 | 22 | 243 | 57 | 620 |
-| last720d | 2024-10-06 | 60 | 1039 | 29 | 669 | 75 | 1281 |
+| 30d | 2026-08-28 | 2 | 32 | 11 | 15 | 8 | 40 |
+| last60d | 2026-07-29 | 5 | 72 | 15 | 35 | 15 | 83 |
+| 90d | 2026-06-29 | 8 | 153 | 15 | 55 | 26 | 166 |
+| last180d | 2026-03-31 | 15 | 289 | 20 | 114 | 41 | 335 |
+| 360d | 2025-10-02 | 33 | 519 | 25 | 240 | 57 | 614 |
+| last720d | 2024-10-07 | 60 | 1038 | 32 | 665 | 75 | 1280 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:52:54Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:14:41Z._
