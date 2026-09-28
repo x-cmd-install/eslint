@@ -14,11 +14,11 @@ x install eslint
 
 ## Code insight
 
-Total: **479,215** lines of code across **1667** files in the top 5 languages.
+Total: **479,275** lines of code across **1667** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 460,438 | 44,035 | 28,935 | 1489 |
+| JavaScript | 460,498 | 44,036 | 28,936 | 1489 |
 | Json | 11,001 | 0 | 13 | 84 |
 | Sass | 3,202 | 54 | 597 | 35 |
 | TypeScript | 3,064 | 3,717 | 572 | 21 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,516 · **Forks**: 5,189 · **Open issues**: 11,032 · **Contributors**: 1,120
+- **Stars**: 27,519 · **Forks**: 5,191 · **Open issues**: 11,033 · **Contributors**: 1,121
 
 ## Totals (cumulative)
 
-- **Releases**: 393 · **Merged PRs**: 7244 · **Open PRs**: 32 · **Closed issues**: 10936 · **Open issues**: 96 · **Commits**: 11039
+- **Releases**: 393 · **Merged PRs**: 7246 · **Open PRs**: 31 · **Closed issues**: 10937 · **Open issues**: 96 · **Commits**: 11041
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 2 | 32 | 11 | 15 | 8 | 40 |
-| last60d | 2026-07-29 | 5 | 72 | 15 | 35 | 15 | 83 |
-| 90d | 2026-06-29 | 8 | 153 | 15 | 55 | 26 | 166 |
-| last180d | 2026-03-31 | 15 | 289 | 20 | 114 | 41 | 335 |
-| 360d | 2025-10-02 | 33 | 519 | 25 | 240 | 57 | 614 |
-| last720d | 2024-10-07 | 60 | 1038 | 32 | 665 | 75 | 1280 |
+| 30d | 2026-08-29 | 2 | 32 | 10 | 15 | 8 | 42 |
+| last60d | 2026-07-30 | 5 | 72 | 14 | 36 | 15 | 85 |
+| 90d | 2026-06-30 | 8 | 153 | 14 | 56 | 25 | 168 |
+| last180d | 2026-04-01 | 15 | 291 | 19 | 115 | 41 | 337 |
+| 360d | 2025-10-03 | 33 | 519 | 24 | 241 | 57 | 616 |
+| last720d | 2024-10-08 | 60 | 1039 | 31 | 665 | 75 | 1280 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:14:41Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:24:26Z._
