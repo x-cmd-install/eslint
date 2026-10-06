@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.12.0` (2026-10-02)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-05
 
 ## Popularity
 
-- **Stars**: 27,573 · **Forks**: 5,203 · **Open issues**: 11,043 · **Contributors**: 1,123
+- **Stars**: 27,598 · **Forks**: 5,204 · **Open issues**: 11,043 · **Contributors**: 1,123
 
 ## Totals (cumulative)
 
-- **Releases**: 394 · **Merged PRs**: 7257 · **Open PRs**: 31 · **Closed issues**: 10946 · **Open issues**: 97 · **Commits**: 11055
+- **Releases**: 394 · **Merged PRs**: 7258 · **Open PRs**: 31 · **Closed issues**: 10946 · **Open issues**: 97 · **Commits**: 11056
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 2 | 32 | 10 | 14 | 10 | 37 |
-| last60d | 2026-08-06 | 6 | 73 | 14 | 39 | 15 | 84 |
-| 90d | 2026-07-07 | 9 | 147 | 14 | 63 | 25 | 168 |
-| last180d | 2026-04-08 | 15 | 288 | 19 | 118 | 40 | 341 |
-| 360d | 2025-10-10 | 33 | 518 | 23 | 242 | 58 | 623 |
-| last720d | 2024-10-15 | 61 | 1043 | 31 | 664 | 75 | 1289 |
+| 30d | 2026-09-06 | 2 | 33 | 10 | 15 | 10 | 39 |
+| last60d | 2026-08-07 | 6 | 71 | 14 | 40 | 15 | 86 |
+| 90d | 2026-07-08 | 9 | 144 | 14 | 63 | 25 | 170 |
+| last180d | 2026-04-09 | 15 | 289 | 19 | 118 | 40 | 343 |
+| 360d | 2025-10-11 | 33 | 519 | 23 | 242 | 58 | 625 |
+| last720d | 2024-10-16 | 61 | 1043 | 31 | 663 | 75 | 1289 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:35:59Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:35:06Z._
