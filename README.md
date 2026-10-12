@@ -26,7 +26,7 @@ Total: **479,942** lines of code across **1667** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.4 / 10**
+Overall score: **6.6 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,625 · **Forks**: 5,208 · **Open issues**: 11,045 · **Contributors**: 1,124
+- **Stars**: 27,639 · **Forks**: 5,210 · **Open issues**: 11,045 · **Contributors**: 1,124
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 2 | 31 | 9 | 17 | 8 | 37 |
-| last60d | 2026-08-12 | 5 | 68 | 11 | 40 | 12 | 85 |
-| 90d | 2026-07-13 | 7 | 146 | 11 | 67 | 20 | 156 |
-| last180d | 2026-04-14 | 15 | 292 | 16 | 121 | 37 | 340 |
-| 360d | 2025-10-16 | 33 | 522 | 20 | 244 | 54 | 619 |
-| last720d | 2024-10-21 | 60 | 1045 | 28 | 661 | 72 | 1284 |
+| 30d | 2026-09-12 | 2 | 31 | 9 | 17 | 8 | 37 |
+| last60d | 2026-08-13 | 5 | 68 | 11 | 40 | 11 | 85 |
+| 90d | 2026-07-14 | 7 | 145 | 11 | 66 | 20 | 156 |
+| last180d | 2026-04-15 | 15 | 292 | 16 | 121 | 37 | 340 |
+| 360d | 2025-10-17 | 33 | 519 | 20 | 243 | 54 | 619 |
+| last720d | 2024-10-22 | 60 | 1044 | 28 | 658 | 72 | 1283 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:40:04Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:07:15Z._
