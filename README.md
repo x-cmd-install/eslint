@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.12.0` (2026-10-02)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 
 ## Popularity
 
-- **Stars**: 27,559 · **Forks**: 5,207 · **Open issues**: 11,051 · **Contributors**: 1,124
+- **Stars**: 27,563 · **Forks**: 5,209 · **Open issues**: 11,051 · **Contributors**: 1,124
 
 ## Totals (cumulative)
 
-- **Releases**: 394 · **Merged PRs**: 7267 · **Open PRs**: 28 · **Closed issues**: 10956 · **Open issues**: 95 · **Commits**: 11065
+- **Releases**: 394 · **Merged PRs**: 7268 · **Open PRs**: 28 · **Closed issues**: 10957 · **Open issues**: 94 · **Commits**: 11066
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 2 | 31 | 8 | 16 | 8 | 40 |
-| last60d | 2026-08-16 | 5 | 70 | 11 | 41 | 10 | 88 |
-| 90d | 2026-07-17 | 7 | 137 | 11 | 67 | 21 | 159 |
-| last180d | 2026-04-18 | 14 | 290 | 15 | 124 | 37 | 343 |
-| 360d | 2025-10-20 | 32 | 516 | 20 | 245 | 55 | 622 |
-| last720d | 2024-10-25 | 60 | 1043 | 28 | 653 | 73 | 1283 |
+| 30d | 2026-09-16 | 2 | 30 | 8 | 15 | 8 | 41 |
+| last60d | 2026-08-17 | 5 | 70 | 11 | 41 | 10 | 89 |
+| 90d | 2026-07-18 | 7 | 135 | 11 | 68 | 20 | 160 |
+| last180d | 2026-04-19 | 14 | 290 | 15 | 125 | 35 | 344 |
+| 360d | 2025-10-21 | 32 | 516 | 20 | 245 | 54 | 623 |
+| last720d | 2024-10-26 | 60 | 1044 | 28 | 653 | 72 | 1282 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:32:39Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:30:00Z._
