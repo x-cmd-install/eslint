@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v10.12.0` (2026-10-02)
-- **Last commit**: 2026-10-15
+- **Latest**: `v10.13.0` (2026-10-16)
+- **Last commit**: 2026-10-16
 
 ## Popularity
 
-- **Stars**: 27,563 · **Forks**: 5,209 · **Open issues**: 11,051 · **Contributors**: 1,124
+- **Stars**: 27,563 · **Forks**: 5,208 · **Open issues**: 11,052 · **Contributors**: 1,124
 
 ## Totals (cumulative)
 
-- **Releases**: 394 · **Merged PRs**: 7268 · **Open PRs**: 28 · **Closed issues**: 10957 · **Open issues**: 94 · **Commits**: 11066
+- **Releases**: 395 · **Merged PRs**: 7268 · **Open PRs**: 29 · **Closed issues**: 10957 · **Open issues**: 95 · **Commits**: 11069
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 2 | 30 | 8 | 15 | 8 | 41 |
-| last60d | 2026-08-17 | 5 | 70 | 11 | 41 | 10 | 89 |
-| 90d | 2026-07-18 | 7 | 135 | 11 | 68 | 20 | 160 |
-| last180d | 2026-04-19 | 14 | 290 | 15 | 125 | 35 | 344 |
-| 360d | 2025-10-21 | 32 | 516 | 20 | 245 | 54 | 623 |
-| last720d | 2024-10-26 | 60 | 1044 | 28 | 653 | 72 | 1282 |
+| 30d | 2026-09-17 | 3 | 27 | 8 | 15 | 7 | 41 |
+| last60d | 2026-08-18 | 6 | 69 | 12 | 41 | 11 | 89 |
+| 90d | 2026-07-19 | 8 | 122 | 12 | 67 | 20 | 160 |
+| last180d | 2026-04-20 | 15 | 288 | 16 | 123 | 36 | 344 |
+| 360d | 2025-10-22 | 33 | 514 | 21 | 245 | 54 | 623 |
+| last720d | 2024-10-27 | 61 | 1042 | 29 | 652 | 73 | 1285 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:30:00Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:16:56Z._
