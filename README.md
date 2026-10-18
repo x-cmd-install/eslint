@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.13.0` (2026-10-16)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-17
 
 ## Popularity
 
-- **Stars**: 27,563 · **Forks**: 5,208 · **Open issues**: 11,052 · **Contributors**: 1,124
+- **Stars**: 27,568 · **Forks**: 5,208 · **Open issues**: 11,052 · **Contributors**: 1,124
 
 ## Totals (cumulative)
 
-- **Releases**: 395 · **Merged PRs**: 7268 · **Open PRs**: 29 · **Closed issues**: 10957 · **Open issues**: 95 · **Commits**: 11069
+- **Releases**: 395 · **Merged PRs**: 7270 · **Open PRs**: 29 · **Closed issues**: 10958 · **Open issues**: 94 · **Commits**: 11071
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 3 | 27 | 8 | 15 | 7 | 41 |
-| last60d | 2026-08-18 | 6 | 69 | 12 | 41 | 11 | 89 |
-| 90d | 2026-07-19 | 8 | 122 | 12 | 67 | 20 | 160 |
-| last180d | 2026-04-20 | 15 | 288 | 16 | 123 | 36 | 344 |
-| 360d | 2025-10-22 | 33 | 514 | 21 | 245 | 54 | 623 |
-| last720d | 2024-10-27 | 61 | 1042 | 29 | 652 | 73 | 1285 |
+| 30d | 2026-09-18 | 3 | 28 | 8 | 16 | 6 | 32 |
+| last60d | 2026-08-19 | 6 | 71 | 12 | 42 | 10 | 83 |
+| 90d | 2026-07-20 | 8 | 118 | 12 | 68 | 19 | 132 |
+| last180d | 2026-04-21 | 15 | 290 | 16 | 124 | 35 | 329 |
+| 360d | 2025-10-23 | 33 | 515 | 21 | 245 | 53 | 616 |
+| last720d | 2024-10-28 | 61 | 1040 | 29 | 651 | 72 | 1287 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:16:56Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:20:46Z._
