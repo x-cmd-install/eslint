@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.13.0` (2026-10-16)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-19
 
 ## Popularity
 
-- **Stars**: 27,571 · **Forks**: 5,210 · **Open issues**: 11,053 · **Contributors**: 1,124
+- **Stars**: 27,575 · **Forks**: 5,212 · **Open issues**: 11,056 · **Contributors**: 1,124
 
 ## Totals (cumulative)
 
-- **Releases**: 395 · **Merged PRs**: 7270 · **Open PRs**: 31 · **Closed issues**: 10958 · **Open issues**: 95 · **Commits**: 11071
+- **Releases**: 395 · **Merged PRs**: 7271 · **Open PRs**: 31 · **Closed issues**: 10960 · **Open issues**: 96 · **Commits**: 11072
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 2 | 28 | 10 | 16 | 7 | 32 |
-| last60d | 2026-08-20 | 6 | 70 | 14 | 42 | 10 | 83 |
-| 90d | 2026-07-21 | 8 | 116 | 14 | 67 | 18 | 132 |
-| last180d | 2026-04-22 | 15 | 288 | 18 | 124 | 36 | 329 |
-| 360d | 2025-10-24 | 33 | 512 | 23 | 244 | 54 | 616 |
-| last720d | 2024-10-29 | 61 | 1037 | 31 | 649 | 73 | 1285 |
+| 30d | 2026-09-20 | 2 | 28 | 11 | 17 | 9 | 34 |
+| last60d | 2026-08-21 | 6 | 71 | 14 | 43 | 12 | 85 |
+| 90d | 2026-07-22 | 8 | 117 | 14 | 69 | 19 | 134 |
+| last180d | 2026-04-23 | 15 | 288 | 18 | 125 | 37 | 331 |
+| 360d | 2025-10-25 | 33 | 510 | 22 | 246 | 55 | 618 |
+| last720d | 2024-10-30 | 61 | 1037 | 31 | 648 | 74 | 1283 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:37:53Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:53:13Z._
