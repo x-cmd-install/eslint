@@ -47,22 +47,37 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,568 · **Forks**: 5,190 · **Open issues**: 11,057 · **Contributors**: 1,124
+- **Stars**: 27,571 · **Forks**: 5,192 · **Open issues**: 11,058 · **Contributors**: 1,124
 
 ## Totals (cumulative)
 
-- **Releases**: 395 · **Merged PRs**: 7274 · **Open PRs**: 29 · **Closed issues**: 10961 · **Open issues**: 96 · **Commits**: 11075
+- **Releases**: 395 · **Merged PRs**: 7274 · **Open PRs**: 31 · **Closed issues**: 10962 · **Open issues**: 96 · **Commits**: 11075
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 29 | 9 | 17 | 8 | 37 |
-| last60d | 2026-08-23 | 5 | 71 | 11 | 44 | 12 | 88 |
-| 90d | 2026-07-24 | 8 | 118 | 12 | 65 | 19 | 137 |
-| last180d | 2026-04-25 | 15 | 288 | 16 | 126 | 37 | 334 |
-| 360d | 2025-10-27 | 33 | 510 | 20 | 247 | 55 | 621 |
-| last720d | 2024-11-01 | 61 | 1037 | 29 | 647 | 74 | 1284 |
+| 30d | 2026-09-23 | 2 | 27 | 11 | 18 | 8 | 37 |
+| last60d | 2026-08-24 | 5 | 69 | 13 | 43 | 12 | 88 |
+| 90d | 2026-07-25 | 7 | 114 | 14 | 66 | 19 | 137 |
+| last180d | 2026-04-26 | 15 | 286 | 18 | 127 | 37 | 334 |
+| 360d | 2025-10-28 | 33 | 509 | 22 | 248 | 54 | 621 |
+| last720d | 2024-11-02 | 60 | 1036 | 31 | 647 | 74 | 1277 |
+
+## Distribution status
+
+Reported by **47** distros on [repology.org](https://repology.org/project/eslint). **8** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `6.4.0+~6.1.9` | ⚠️ outdated |
+| Debian 14 | `6.4.0+~6.1.9` | ⚠️ outdated |
+| Debian 13 | `6.4.0+~6.1.9` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `6.4.0+~6.1.9` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `6.4.0+~6.1.9` | ⚠️ outdated |
+| Arch | `10.13.0` | ✅ latest |
+| Homebrew | `10.13.0` | ✅ latest |
+| Nix unstable | `10.12.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +88,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:41:36Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:50:40Z._
