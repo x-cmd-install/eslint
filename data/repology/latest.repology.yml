@@ -1,31 +1,10 @@
-- repo: parrot
-  subrepo: parrot/main
+- repo: homebrew
   srcname: eslint
-  binnames:
-    - eslint
   visiblename: eslint
-  version: 6.4.0+~6.1.9
-  origversion: 6.4.0~dfsg+~6.1.9-12
-  status: outdated
-  maintainers:
-    - pkg-javascript-devel@lists.alioth.debian.org
-    - dr@jones.dk
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: eslint
-  binnames:
-    - eslint
-  visiblename: eslint
-  version: 6.4.0+~6.1.9
-  origversion: 6.4.0~dfsg+~6.1.9-12
-  status: outdated
-  maintainers:
-    - pkg-javascript-devel@lists.alioth.debian.org
-    - dr@jones.dk
-  categories:
-    - misc
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: AST-based pattern checker for JavaScript
 - repo: apertis_v2023
   subrepo: v2023/development
   srcname: eslint
@@ -230,13 +209,6 @@
   origversion: null
   status: newest
   summary: AST-based pattern checker for JavaScript
-- repo: homebrew
-  srcname: eslint
-  visiblename: eslint
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: AST-based pattern checker for JavaScript
 - repo: kali_rolling
   subrepo: main
   srcname: eslint
@@ -378,9 +350,9 @@
 - repo: nix_unstable
   srcname: eslint
   visiblename: eslint
-  version: 10.12.0
+  version: 10.13.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Find and fix problems in your JavaScript code
   maintainers:
     - nix@mdaniels.me
@@ -417,6 +389,34 @@
   visiblename: eslint
   version: 5.16.0+~4.16.8
   origversion: 5.16.0~dfsg+~4.16.8-5
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12
   status: outdated
   maintainers:
     - pkg-javascript-devel@lists.alioth.debian.org
