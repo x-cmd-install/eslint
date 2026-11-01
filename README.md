@@ -43,30 +43,30 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.14.0` (2026-10-30)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-10-31
 
 ## Popularity
 
-- **Stars**: 27,601 · **Forks**: 5,197 · **Open issues**: 11,070 · **Contributors**: 1,125
+- **Stars**: 27,604 · **Forks**: 5,200 · **Open issues**: 11,073 · **Contributors**: 1,125
 
 ## Totals (cumulative)
 
-- **Releases**: 396 · **Merged PRs**: 7290 · **Open PRs**: 27 · **Closed issues**: 10969 · **Open issues**: 101 · **Commits**: 11093
+- **Releases**: 396 · **Merged PRs**: 7291 · **Open PRs**: 32 · **Closed issues**: 10970 · **Open issues**: 103 · **Commits**: 11094
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 28 | 7 | 14 | 16 | 36 |
-| last60d | 2026-09-01 | 5 | 68 | 10 | 34 | 20 | 92 |
-| 90d | 2026-08-02 | 8 | 112 | 11 | 62 | 23 | 139 |
-| last180d | 2026-05-04 | 15 | 286 | 13 | 126 | 39 | 339 |
-| 360d | 2025-11-05 | 32 | 505 | 18 | 242 | 59 | 612 |
-| last720d | 2024-11-10 | 61 | 1044 | 27 | 642 | 78 | 1285 |
+| 30d | 2026-10-02 | 3 | 29 | 12 | 14 | 18 | 30 |
+| last60d | 2026-09-02 | 5 | 66 | 15 | 33 | 22 | 77 |
+| 90d | 2026-08-03 | 8 | 111 | 16 | 63 | 25 | 123 |
+| last180d | 2026-05-05 | 15 | 286 | 18 | 126 | 41 | 323 |
+| 360d | 2025-11-06 | 32 | 505 | 23 | 241 | 61 | 579 |
+| last720d | 2024-11-11 | 61 | 1045 | 32 | 641 | 80 | 1286 |
 
 ## Distribution status
 
-Reported by **47** distros on [repology.org](https://repology.org/project/eslint). **3** are ✅ on the latest upstream release, **43** are ⚠️ on an older version.
+Reported by **47** distros on [repology.org](https://repology.org/project/eslint). **7** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -76,7 +76,7 @@ Reported by **47** distros on [repology.org](https://repology.org/project/eslint
 | Ubuntu 26.04 LTS | `6.4.0+~6.1.9` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `6.4.0+~6.1.9` | ⚠️ outdated |
 | Arch | `10.14.0` | ✅ latest |
-| Homebrew | `10.13.0` | ⚠️ outdated |
+| Homebrew | `10.14.0` | ✅ latest |
 | Nix unstable | `10.13.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -88,4 +88,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:40:22Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:07:01Z._
