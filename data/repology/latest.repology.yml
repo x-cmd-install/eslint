@@ -242,8 +242,8 @@
   srcname: eslint
   binname: eslint
   visiblename: eslint
-  version: 10.10.0
-  origversion: 10.10.0-1
+  version: 8.49.0
+  origversion: 8.49.0-1
   status: outdated
   summary: An AST-based pattern checker for JavaScript
   licenses:
@@ -253,8 +253,8 @@
   srcname: eslint
   binname: eslint
   visiblename: eslint
-  version: 10.12.0
-  origversion: 10.12.0-1
+  version: 8.49.0
+  origversion: 8.49.0-1
   status: outdated
   summary: An AST-based pattern checker for JavaScript
   licenses:
