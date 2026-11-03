@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.14.0` (2026-10-30)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-02
 
 ## Popularity
 
-- **Stars**: 27,605 · **Forks**: 5,202 · **Open issues**: 11,073 · **Contributors**: 1,125
+- **Stars**: 27,605 · **Forks**: 5,204 · **Open issues**: 11,074 · **Contributors**: 1,125
 
 ## Totals (cumulative)
 
-- **Releases**: 396 · **Merged PRs**: 7292 · **Open PRs**: 33 · **Closed issues**: 10970 · **Open issues**: 103 · **Commits**: 11095
+- **Releases**: 396 · **Merged PRs**: 7293 · **Open PRs**: 34 · **Closed issues**: 10971 · **Open issues**: 103 · **Commits**: 11096
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 29 | 13 | 13 | 18 | 31 |
-| last60d | 2026-09-03 | 5 | 67 | 16 | 33 | 22 | 78 |
-| 90d | 2026-08-04 | 8 | 111 | 17 | 62 | 25 | 124 |
-| last180d | 2026-05-06 | 15 | 286 | 19 | 126 | 41 | 324 |
-| 360d | 2025-11-07 | 32 | 506 | 24 | 241 | 61 | 580 |
-| last720d | 2024-11-12 | 61 | 1045 | 33 | 641 | 80 | 1287 |
+| 30d | 2026-10-04 | 2 | 29 | 14 | 12 | 18 | 33 |
+| last60d | 2026-09-04 | 5 | 66 | 17 | 32 | 22 | 80 |
+| 90d | 2026-08-05 | 8 | 112 | 18 | 63 | 24 | 126 |
+| last180d | 2026-05-07 | 15 | 286 | 20 | 125 | 41 | 326 |
+| 360d | 2025-11-08 | 32 | 506 | 25 | 242 | 61 | 582 |
+| last720d | 2024-11-13 | 61 | 1044 | 34 | 640 | 80 | 1288 |
 
 ## Distribution status
 
@@ -88,4 +88,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:27:17Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:02:47Z._
