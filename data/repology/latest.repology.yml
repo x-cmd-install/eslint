@@ -1,3 +1,43 @@
+- repo: raspbian_stable
+  subrepo: main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-14
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: apertis_v2025
+  subrepo: v2025/development
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-7+apertis1
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
 - repo: apertis_v2023
   subrepo: v2023/development
   srcname: eslint
@@ -12,18 +52,6 @@
     - dr@jones.dk
 - repo: apertis_v2024
   subrepo: v2024/development
-  srcname: eslint
-  binnames:
-    - eslint
-  visiblename: eslint
-  version: 6.4.0+~6.1.9
-  origversion: 6.4.0~dfsg+~6.1.9-7+apertis1
-  status: outdated
-  maintainers:
-    - pkg-javascript-devel@lists.alioth.debian.org
-    - dr@jones.dk
-- repo: apertis_v2025
-  subrepo: v2025/development
   srcname: eslint
   binnames:
     - eslint
@@ -223,6 +251,34 @@
     - dr@jones.dk
   categories:
     - misc
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - javascript
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-7
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - misc
 - repo: macports
   srcname: devel/eslint
   binname: eslint
@@ -242,8 +298,8 @@
   srcname: eslint
   binname: eslint
   visiblename: eslint
-  version: 8.49.0
-  origversion: 8.49.0-1
+  version: 10.12.0
+  origversion: 10.12.0-1
   status: outdated
   summary: An AST-based pattern checker for JavaScript
   licenses:
@@ -253,8 +309,8 @@
   srcname: eslint
   binname: eslint
   visiblename: eslint
-  version: 8.49.0
-  origversion: 8.49.0-1
+  version: 10.13.0
+  origversion: 10.13.0-1
   status: outdated
   summary: An AST-based pattern checker for JavaScript
   licenses:
@@ -264,9 +320,9 @@
   srcname: eslint
   binname: eslint
   visiblename: eslint
-  version: 10.13.0
-  origversion: 10.13.0-1
-  status: outdated
+  version: 10.14.0
+  origversion: 10.14.0-1
+  status: newest
   summary: An AST-based pattern checker for JavaScript
   licenses:
     - MIT
@@ -290,20 +346,6 @@
   summary: An AST-based pattern checker for JavaScript (mingw-w64)
   licenses:
     - spdx:MIT
-- repo: ubuntu_24_04
-  subrepo: noble/universe
-  srcname: eslint
-  binnames:
-    - eslint
-  visiblename: eslint
-  version: 6.4.0+~6.1.9
-  origversion: 6.4.0~dfsg+~6.1.9-11build3
-  status: outdated
-  maintainers:
-    - pkg-javascript-devel@lists.alioth.debian.org
-    - dr@jones.dk
-  categories:
-    - universe/misc
 - repo: msys2_ucrt64
   srcname: mingw-w64-eslint
   binname: mingw-w64-ucrt-x86_64-eslint
@@ -373,17 +415,6 @@
     - onny@project-insanity.org
   licenses:
     - MIT
-- repo: openpkg_current
-  srcname: eslint
-  visiblename: eslint
-  version: 7.32.0
-  origversion: null
-  status: outdated
-  summary: JavaScript Linting Tool
-  licenses:
-    - MIT
-  categories:
-    - Language
 - repo: parabola
   subrepo: extra
   srcname: eslint
@@ -451,62 +482,6 @@
     - dr@jones.dk
   categories:
     - javascript
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: eslint
-  binnames:
-    - eslint
-  visiblename: eslint
-  version: 6.4.0+~6.1.9
-  origversion: 6.4.0~dfsg+~6.1.9-12
-  status: outdated
-  maintainers:
-    - pkg-javascript-devel@lists.alioth.debian.org
-    - dr@jones.dk
-  categories:
-    - javascript
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: eslint
-  binnames:
-    - eslint
-  visiblename: eslint
-  version: 6.4.0+~6.1.9
-  origversion: 6.4.0~dfsg+~6.1.9-7
-  status: outdated
-  maintainers:
-    - pkg-javascript-devel@lists.alioth.debian.org
-    - dr@jones.dk
-  categories:
-    - misc
-- repo: raspbian_stable
-  subrepo: main
-  srcname: eslint
-  binnames:
-    - eslint
-  visiblename: eslint
-  version: 6.4.0+~6.1.9
-  origversion: 6.4.0~dfsg+~6.1.9-12
-  status: outdated
-  maintainers:
-    - pkg-javascript-devel@lists.alioth.debian.org
-    - dr@jones.dk
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: eslint
-  binnames:
-    - eslint
-  visiblename: eslint
-  version: 6.4.0+~6.1.9
-  origversion: 6.4.0~dfsg+~6.1.9-14
-  status: outdated
-  maintainers:
-    - pkg-javascript-devel@lists.alioth.debian.org
-    - dr@jones.dk
-  categories:
-    - misc
 - repo: ubuntu_20_04
   subrepo: focal/universe
   srcname: eslint
@@ -529,6 +504,20 @@
   visiblename: eslint
   version: 6.4.0+~6.1.9
   origversion: 6.4.0~dfsg+~6.1.9-2
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-11build3
   status: outdated
   maintainers:
     - pkg-javascript-devel@lists.alioth.debian.org
@@ -579,6 +568,20 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-14
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: eslint
   binnames:
     - eslint
