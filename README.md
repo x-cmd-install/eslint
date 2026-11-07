@@ -14,12 +14,12 @@ x install eslint
 
 ## Code insight
 
-Total: **480,774** lines of code across **1667** files in the top 5 languages.
+Total: **480,753** lines of code across **1667** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 462,073 | 44,140 | 29,057 | 1489 |
-| Json | 11,001 | 0 | 13 | 84 |
+| JavaScript | 462,053 | 44,138 | 29,055 | 1489 |
+| Json | 11,000 | 0 | 13 | 84 |
 | Sass | 3,202 | 54 | 597 | 35 |
 | TypeScript | 3,068 | 3,717 | 572 | 21 |
 | Html | 1,237 | 16 | 89 | 38 |
@@ -43,30 +43,30 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.14.0` (2026-10-30)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 
 ## Popularity
 
-- **Stars**: 27,603 · **Forks**: 5,206 · **Open issues**: 11,077 · **Contributors**: 1,124
+- **Stars**: 27,603 · **Forks**: 5,206 · **Open issues**: 11,081 · **Contributors**: 1,124
 
 ## Totals (cumulative)
 
-- **Releases**: 396 · **Merged PRs**: 7295 · **Open PRs**: 35 · **Closed issues**: 10971 · **Open issues**: 106 · **Commits**: 11099
+- **Releases**: 396 · **Merged PRs**: 7299 · **Open PRs**: 35 · **Closed issues**: 10971 · **Open issues**: 110 · **Commits**: 11103
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 28 | 14 | 11 | 20 | 35 |
-| last60d | 2026-09-07 | 4 | 64 | 18 | 31 | 25 | 82 |
-| 90d | 2026-08-08 | 7 | 107 | 19 | 59 | 27 | 128 |
-| last180d | 2026-05-10 | 15 | 286 | 20 | 125 | 43 | 328 |
-| 360d | 2025-11-11 | 32 | 503 | 26 | 242 | 64 | 584 |
-| last720d | 2024-11-16 | 60 | 1042 | 35 | 634 | 83 | 1275 |
+| 30d | 2026-10-08 | 2 | 31 | 14 | 11 | 24 | 39 |
+| last60d | 2026-09-08 | 4 | 67 | 18 | 31 | 29 | 86 |
+| 90d | 2026-08-09 | 7 | 108 | 19 | 59 | 31 | 132 |
+| last180d | 2026-05-11 | 15 | 288 | 20 | 125 | 47 | 332 |
+| 360d | 2025-11-12 | 32 | 506 | 26 | 240 | 68 | 588 |
+| last720d | 2024-11-17 | 60 | 1045 | 35 | 632 | 87 | 1279 |
 
 ## Distribution status
 
-Reported by **47** distros on [repology.org](https://repology.org/project/eslint). **7** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
+Reported by **47** distros on [repology.org](https://repology.org/project/eslint). **8** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -88,4 +88,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:55:37Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:58:12Z._
