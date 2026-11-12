@@ -1,3 +1,60 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: eslint
+  binname: eslint
+  visiblename: eslint
+  version: 10.14.0
+  origversion: 10.14.0-1
+  status: newest
+  summary: An AST-based pattern checker for JavaScript
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: eslint
+  visiblename: eslint
+  version: 9.39.1
+  origversion: null
+  status: outdated
+  summary: Find and fix problems in your JavaScript code
+  maintainers:
+    - nix@mdaniels.me
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: eslint
+  binname: eslint
+  visiblename: eslint
+  version: 10.12.0
+  origversion: 10.12.0-1
+  status: outdated
+  summary: An AST-based pattern checker for JavaScript
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: eslint
+  visiblename: eslint
+  version: 9.39.1
+  origversion: null
+  status: outdated
+  summary: Find and fix problems in your JavaScript code
+  maintainers:
+    - nix@mdaniels.me
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: eslint
+  binname: eslint
+  visiblename: eslint
+  version: 10.14.0
+  origversion: 10.14.0-1
+  status: newest
+  summary: An AST-based pattern checker for JavaScript
+  licenses:
+    - MIT
 - repo: apertis_v2023
   subrepo: v2023/development
   srcname: eslint
@@ -237,39 +294,6 @@
     - MIT
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: eslint
-  binname: eslint
-  visiblename: eslint
-  version: 10.12.0
-  origversion: 10.12.0-1
-  status: outdated
-  summary: An AST-based pattern checker for JavaScript
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: eslint
-  binname: eslint
-  visiblename: eslint
-  version: 10.14.0
-  origversion: 10.14.0-1
-  status: newest
-  summary: An AST-based pattern checker for JavaScript
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: eslint
-  binname: eslint
-  visiblename: eslint
-  version: 10.14.0
-  origversion: 10.14.0-1
-  status: newest
-  summary: An AST-based pattern checker for JavaScript
-  licenses:
-    - MIT
 - repo: msys2_clang64
   srcname: mingw-w64-eslint
   binname: mingw-w64-clang-x86_64-eslint
@@ -290,20 +314,6 @@
   summary: An AST-based pattern checker for JavaScript (mingw-w64)
   licenses:
     - spdx:MIT
-- repo: ubuntu_25_04
-  subrepo: plucky/universe
-  srcname: eslint
-  binnames:
-    - eslint
-  visiblename: eslint
-  version: 6.4.0+~6.1.9
-  origversion: 6.4.0~dfsg+~6.1.9-12
-  status: outdated
-  maintainers:
-    - pkg-javascript-devel@lists.alioth.debian.org
-    - dr@jones.dk
-  categories:
-    - universe/misc
 - repo: msys2_ucrt64
   srcname: mingw-w64-eslint
   binname: mingw-w64-ucrt-x86_64-eslint
@@ -325,30 +335,6 @@
     - onny@project-insanity.org
   licenses:
     - MIT
-- repo: nix_stable_25_05
-  srcname: eslint
-  visiblename: eslint
-  version: 9.39.1
-  origversion: null
-  status: outdated
-  summary: Find and fix problems in your JavaScript code
-  maintainers:
-    - nix@mdaniels.me
-    - onny@project-insanity.org
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: eslint
-  visiblename: eslint
-  version: 9.39.1
-  origversion: null
-  status: outdated
-  summary: Find and fix problems in your JavaScript code
-  maintainers:
-    - nix@mdaniels.me
-    - onny@project-insanity.org
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: eslint
   visiblename: eslint
@@ -364,9 +350,9 @@
 - repo: nix_unstable
   srcname: eslint
   visiblename: eslint
-  version: 10.13.0
+  version: 10.14.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Find and fix problems in your JavaScript code
   maintainers:
     - nix@mdaniels.me
@@ -399,7 +385,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: eslint
   binnames:
     - eslint
@@ -413,7 +399,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: eslint
   binnames:
     - eslint
@@ -532,6 +518,20 @@
   visiblename: eslint
   version: 6.4.0+~6.1.9
   origversion: 6.4.0~dfsg+~6.1.9-11build3
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - dr@jones.dk
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: eslint
+  binnames:
+    - eslint
+  visiblename: eslint
+  version: 6.4.0+~6.1.9
+  origversion: 6.4.0~dfsg+~6.1.9-12
   status: outdated
   maintainers:
     - pkg-javascript-devel@lists.alioth.debian.org
