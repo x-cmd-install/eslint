@@ -1,14 +1,3 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: eslint
-  binname: eslint
-  visiblename: eslint
-  version: 10.14.0
-  origversion: 10.14.0-1
-  status: newest
-  summary: An AST-based pattern checker for JavaScript
-  licenses:
-    - MIT
 - repo: nix_stable_25_05
   srcname: eslint
   visiblename: eslint
@@ -19,40 +8,6 @@
   maintainers:
     - nix@mdaniels.me
     - onny@project-insanity.org
-  licenses:
-    - MIT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: eslint
-  binname: eslint
-  visiblename: eslint
-  version: 10.12.0
-  origversion: 10.12.0-1
-  status: outdated
-  summary: An AST-based pattern checker for JavaScript
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: eslint
-  visiblename: eslint
-  version: 9.39.1
-  origversion: null
-  status: outdated
-  summary: Find and fix problems in your JavaScript code
-  maintainers:
-    - nix@mdaniels.me
-    - onny@project-insanity.org
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: eslint
-  binname: eslint
-  visiblename: eslint
-  version: 10.14.0
-  origversion: 10.14.0-1
-  status: newest
-  summary: An AST-based pattern checker for JavaScript
   licenses:
     - MIT
 - repo: apertis_v2023
@@ -120,8 +75,8 @@
   srcname: eslint
   binname: eslint
   visiblename: eslint
-  version: 10.14.0
-  origversion: 10.14.0-1
+  version: 10.15.0
+  origversion: 10.15.0-1
   status: newest
   summary: An AST-based pattern checker for JavaScript
   licenses:
@@ -255,7 +210,7 @@
 - repo: homebrew
   srcname: eslint
   visiblename: eslint
-  version: 10.14.0
+  version: 10.15.0
   origversion: null
   status: newest
   summary: AST-based pattern checker for JavaScript
@@ -284,7 +239,7 @@
   srcname: devel/eslint
   binname: eslint
   visiblename: eslint
-  version: 10.14.0
+  version: 10.15.0
   origversion: null
   status: newest
   summary: Statically analyzes JavaScript and TypeScript to find problems
@@ -294,12 +249,45 @@
     - MIT
   categories:
     - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: eslint
+  binname: eslint
+  visiblename: eslint
+  version: 10.12.0
+  origversion: 10.12.0-1
+  status: outdated
+  summary: An AST-based pattern checker for JavaScript
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: eslint
+  binname: eslint
+  visiblename: eslint
+  version: 10.14.0
+  origversion: 10.14.0-1
+  status: outdated
+  summary: An AST-based pattern checker for JavaScript
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: eslint
+  binname: eslint
+  visiblename: eslint
+  version: 10.15.0
+  origversion: 10.15.0-1
+  status: newest
+  summary: An AST-based pattern checker for JavaScript
+  licenses:
+    - MIT
 - repo: msys2_clang64
   srcname: mingw-w64-eslint
   binname: mingw-w64-clang-x86_64-eslint
   visiblename: mingw-w64-clang-x86_64-eslint
-  version: 10.14.0
-  origversion: 10.14.0-1
+  version: 10.15.0
+  origversion: 10.15.0-1
   status: newest
   summary: An AST-based pattern checker for JavaScript (mingw-w64)
   licenses:
@@ -308,8 +296,8 @@
   srcname: mingw-w64-eslint
   binname: mingw-w64-clang-aarch64-eslint
   visiblename: mingw-w64-clang-aarch64-eslint
-  version: 10.14.0
-  origversion: 10.14.0-1
+  version: 10.15.0
+  origversion: 10.15.0-1
   status: newest
   summary: An AST-based pattern checker for JavaScript (mingw-w64)
   licenses:
@@ -318,8 +306,8 @@
   srcname: mingw-w64-eslint
   binname: mingw-w64-ucrt-x86_64-eslint
   visiblename: mingw-w64-ucrt-x86_64-eslint
-  version: 10.14.0
-  origversion: 10.14.0-1
+  version: 10.15.0
+  origversion: 10.15.0-1
   status: newest
   summary: An AST-based pattern checker for JavaScript (mingw-w64)
   licenses:
@@ -332,6 +320,18 @@
   status: outdated
   summary: Find and fix problems in your JavaScript code
   maintainers:
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: eslint
+  visiblename: eslint
+  version: 9.39.1
+  origversion: null
+  status: outdated
+  summary: Find and fix problems in your JavaScript code
+  maintainers:
+    - nix@mdaniels.me
     - onny@project-insanity.org
   licenses:
     - MIT
@@ -352,7 +352,7 @@
   visiblename: eslint
   version: 10.14.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Find and fix problems in your JavaScript code
   maintainers:
     - nix@mdaniels.me
@@ -366,7 +366,7 @@
   visiblename: eslint
   version: 10.14.0
   origversion: 10.14.0-1
-  status: newest
+  status: outdated
   summary: An AST-based pattern checker for JavaScript
   licenses:
     - MIT
@@ -385,7 +385,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: eslint
   binnames:
     - eslint
@@ -399,7 +399,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: eslint
   binnames:
     - eslint
