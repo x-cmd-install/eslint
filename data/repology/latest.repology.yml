@@ -1,15 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: eslint
-  visiblename: eslint
-  version: 9.39.1
-  origversion: null
-  status: outdated
-  summary: Find and fix problems in your JavaScript code
-  maintainers:
-    - nix@mdaniels.me
-    - onny@project-insanity.org
-  licenses:
-    - MIT
 - repo: apertis_v2023
   subrepo: v2023/development
   srcname: eslint
@@ -265,9 +253,9 @@
   srcname: eslint
   binname: eslint
   visiblename: eslint
-  version: 10.14.0
-  origversion: 10.14.0-1
-  status: outdated
+  version: 10.15.0
+  origversion: 10.15.0-1
+  status: newest
   summary: An AST-based pattern checker for JavaScript
   licenses:
     - MIT
@@ -320,6 +308,18 @@
   status: outdated
   summary: Find and fix problems in your JavaScript code
   maintainers:
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: eslint
+  visiblename: eslint
+  version: 9.39.1
+  origversion: null
+  status: outdated
+  summary: Find and fix problems in your JavaScript code
+  maintainers:
+    - nix@mdaniels.me
     - onny@project-insanity.org
   licenses:
     - MIT
