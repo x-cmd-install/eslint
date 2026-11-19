@@ -14,11 +14,11 @@ x install eslint
 
 ## Code insight
 
-Total: **482,197** lines of code across **1670** files in the top 5 languages.
+Total: **483,099** lines of code across **1670** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 463,476 | 44,209 | 29,143 | 1491 |
+| JavaScript | 464,378 | 44,222 | 29,160 | 1491 |
 | Json | 11,023 | 0 | 13 | 85 |
 | Sass | 3,202 | 54 | 597 | 35 |
 | TypeScript | 3,068 | 3,717 | 572 | 21 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.15.0` (2026-11-13)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-18
 
 ## Popularity
 
-- **Stars**: 27,627 · **Forks**: 5,207 · **Open issues**: 11,102 · **Contributors**: 1,128
+- **Stars**: 27,628 · **Forks**: 5,205 · **Open issues**: 11,102 · **Contributors**: 1,128
 
 ## Totals (cumulative)
 
-- **Releases**: 397 · **Merged PRs**: 7316 · **Open PRs**: 45 · **Closed issues**: 10987 · **Open issues**: 115 · **Commits**: 11123
+- **Releases**: 397 · **Merged PRs**: 7320 · **Open PRs**: 44 · **Closed issues**: 10990 · **Open issues**: 112 · **Commits**: 11128
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 42 | 24 | 21 | 29 | 49 |
-| last60d | 2026-09-18 | 5 | 74 | 27 | 40 | 33 | 89 |
-| 90d | 2026-08-19 | 8 | 118 | 29 | 68 | 35 | 143 |
-| last180d | 2026-05-21 | 15 | 283 | 30 | 136 | 50 | 330 |
-| 360d | 2025-11-22 | 32 | 514 | 36 | 244 | 71 | 584 |
-| last720d | 2024-11-27 | 61 | 1043 | 45 | 636 | 91 | 1289 |
+| 30d | 2026-10-20 | 2 | 42 | 22 | 21 | 25 | 54 |
+| last60d | 2026-09-20 | 4 | 77 | 26 | 42 | 31 | 94 |
+| 90d | 2026-08-21 | 8 | 121 | 28 | 69 | 33 | 148 |
+| last180d | 2026-05-23 | 15 | 284 | 29 | 136 | 45 | 335 |
+| 360d | 2025-11-24 | 32 | 514 | 35 | 246 | 68 | 589 |
+| last720d | 2024-11-29 | 61 | 1043 | 44 | 635 | 88 | 1288 |
 
 ## Distribution status
 
@@ -88,4 +88,4 @@ Install metadata for eslint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:33:53Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:25:18Z._
